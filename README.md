@@ -59,17 +59,4 @@ Request a withdrawal for an author.
 ### 5. GET /authors/:id/withdrawals
 View withdrawal history for an author.
 
-## Deployment
 
-To deploy this API online (e.g., for automated testing), you can use free services like **Render** .
-
-### Steps for Render:
-1.  Push this code to a GitHub repository.
-2.  Sign up at [render.com](https://render.com).
-3.  Click **New +** -> **Web Service**.
-4.  Connect your GitHub repository.
-5.  Render will automatically detect Node.js. 
-6.  Ensure the Build Command is `npm install` and Start Command is `node index.js`.
-7.  Click **Create Web Service**.
-
-Once deployed, you will get a public URL (e.g., `https://your-app.onrender.com`) to use for testing.
