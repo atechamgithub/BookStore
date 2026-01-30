@@ -2,7 +2,7 @@
 
 This is a REST API for the BookLeaf simplified author royalty system, built with Node.js and Express.
 
-  # Project Live Link : https://movie-app-ui.onrender.com
+  # Project Live Link : https://bookstore-api-r1es.onrender.com
 
 ## Features
 
